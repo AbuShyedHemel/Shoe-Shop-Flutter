@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "832804658708",
+    "project_id": "shoeshop-5a048",
+    "storage_bucket": "shoeshop-5a048.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832804658708:android:82b9cf066c0a190ca51101",
+        "android_client_info": {
+          "package_name": "com.example.shoe_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832804658708-k3tputqau3p15480jr61prs5bvr2275k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE5jsF-WJp54QDRDL8AJc7w7RM-v_YiH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832804658708-k3tputqau3p15480jr61prs5bvr2275k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
